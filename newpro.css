@@ -1,0 +1,353 @@
+.navbar {
+  border: 2px solid rgb(192, 74, 202);
+  height: 67px;
+  width: 90%;
+  border-radius: 34px;
+  margin-left: 40px;
+  background-color: white;
+  margin-top: 19px;
+}
+.infi {
+  height: 50px;
+  width: 60px;
+  border-radius: 10px;
+  margin-right: 240px;
+  text-align: center;
+  align-items: center;
+}
+.navbar ul li {
+  padding: 10px;
+  margin: 20px;
+  margin-top: 3px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.navbar ul a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+.navbar ul a:hover {
+  color: rgb(234, 87, 190);
+}
+.navbar ul {
+  display: flex;
+  flex-direction: row-reverse;
+  list-style: none;
+}
+.first-page {
+  height: 750px;
+  width: 100%;
+  border: 2px solid rgb(192, 74, 202);
+  background-color: rgb(109, 11, 118);
+  border-color: yellow;
+}
+.text-area {
+  margin-top: 160px;
+  height: 300px;
+  width: 80%;
+  margin-left: 20px;
+  color: rgb(234, 225, 225);
+  text-align: center;
+  justify-content: center;
+}
+span {
+  color: white;
+}
+.text-area p {
+  font-size: 17px;
+}
+.text-area h1 {
+  font-size: 40px;
+}
+button {
+  height: 50px;
+  width: 210px;
+  border: 2px solid pink;
+  border-radius: 30px;
+  background-color: rgb(241, 19, 156);
+  color: white;
+  border-color: rgb(241, 19, 156);
+}
+.second-part {
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  margin-top: 160px;
+}
+.b1 {
+  height: 200px;
+  border-radius: 25px;
+  background-color: white;
+  color: balck;
+  width: 20%;
+  border: 2px solid rgb(213, 200, 208);
+  margin-right: 29px;
+  box-shadow: 5px 10px #888888;
+}
+.b2 {
+  height: 200px;
+  border-radius: 25px;
+  background-color: white;
+  color: balck;
+  width: 20%;
+  border: 2px solid rgb(218, 207, 213);
+  margin-right: 29px;
+  box-shadow: 5px 10px #888888;
+}
+.b3 {
+  height: 200px;
+  border-radius: 25px;
+  background-color: white;
+  color: balck;
+  width: 20%;
+  border: 2px solid rgb(240, 231, 236);
+  box-shadow: 5px 10px #888888;
+}
+.text {
+  margin: 6px 5px;
+  margin-right: 7px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.img2 {
+  height: 60px;
+  width: 70px;
+  background-color: white;
+  border-radius: 50%;
+}
+.second-page {
+  display: flex;
+  height: 340px;
+  width: 90%;
+  /* border: 2px solid black; */
+  margin-top: 250px;
+  margin-left: 20px;
+}
+.second-i {
+  height: 340px;
+  width: 400px;
+  border-radius: 30px;
+}
+.right-side {
+  margin-left: 220px;
+  width: 50%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.third-part {
+  display: flex;
+  height: 340px;
+  width: 90%;
+  /* border: 2px solid black; */
+  /* margin-top: 250px; */
+  margin-left: 20px;
+}
+.third-i {
+  height: 340px;
+  width: 400px;
+  border-radius: 30px;
+}
+.left-s {
+  /* margin-left: 220px; */
+  width: 40%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.right-s {
+  margin-left: 220px;
+  width: 50%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 80px; */
+}
+.fourth-page {
+  height: 450px;
+  width: 95%;
+  border: 2px solid black;
+  margin: auto;
+  background-color: rgb(109, 11, 118);
+  margin-top: 30px;
+}
+.text-h {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  color: rgb(234, 225, 225);
+  padding: 10px 10px;
+  margin-left: 40px;
+  margin-right: 50px;
+}
+.fourth-p {
+  display: flex;
+  height: 300px;
+  width: 70%;
+  margin-left: 150px;
+}
+.box1,
+.box2,
+.box3,
+.box4,
+.box5,
+.box6 {
+  height: 170px;
+  width: 26%;
+  border: 1px solid black;
+  margin-left: 25px;
+  color: white;
+  border-radius: 30px;
+  background-color: white;
+  box-shadow: 5px 10px #888888;
+}
+.texth {
+  margin: 10px 10px;
+  color: black;
+}
+.ai {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-left: 30px;
+  background-color: blueviolet;
+}
+.content {
+  margin-top: -20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.next1-p{
+  height: 580px;
+  width: 90%;
+  /* border: 2px solid green; */
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 50px;
+}
+.cont{
+  display: flex;
+  height: 430px;
+  width: 80%;
+  margin: 10px 20px;
+  /* border: 1px solid black; */
+  margin: auto;
+}
+.fb1, .fb2, .fb3{
+  height: 400px;
+  width: 30%;
+  /* border: 1px solid black; */
+  margin: 20px 30px;
+}
+.f{
+  height: 190px;
+  width: 300px;
+  border-radius: 30px;
+}
+.texti{
+  margin-top: 8px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.btn3{
+  height: 45px;
+  width: 130px;
+  border: 2px solid pink;
+  border-radius: 20px;
+  background-color: rgb(151, 34, 143);
+  color: white;
+  border-color: rgb(144, 34, 156);
+}
+.contact-p{
+  height: 500px;
+  width: 100%;
+  /* border: 2px solid black; */
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 50px;
+  background-color: #888888;
+}
+.cninfo{
+  display: flex;
+  height: 350px;
+  width: 90%;
+  margin: 10px 30px;
+  /* border: 1px solid black; */
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.bx1, .bx2{
+  height: 290px;
+  width: 65%;
+  /* border: 2px solid black; */
+  margin: 5px 20px;
+}
+.bx1{
+  width: 30%;
+  margin-left: 10px;
+}
+form .frm{
+  display: flex;
+  margin: 10px 30px;
+}
+input{
+  height: 35px;
+  width: 360px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+.s{
+  height: 45px;
+  width: 130px;
+  border: 2px solid pink;
+  border-radius: 20px;
+  background-color: rgb(151, 34, 143);
+  color: white;
+  border-color: rgb(144, 34, 156);
+  margin-right: 630px;
+}
+textarea{
+  height: 120px;
+  border-radius: 20px;
+}
+.cpyrgt{
+  height: 130px;
+  width: 100%;
+  /* border: 1px solid black; */
+  background-color: rgb(151, 34, 143);
+  text-align: center;
+}
+.cpy{
+  display: flex;
+  text-align: center;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+  margin: 10px 10px;
+  text-align: center;
+}
+hr{
+  width: 90%;
+  text-align: center;
+  color: white;
+}
